@@ -1,0 +1,2 @@
+La pantalla tiene 1365 pixeles horizontalmente
+La pantalla tiene 704 pixeles verticalmente
